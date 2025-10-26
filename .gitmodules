@@ -1,0 +1,12 @@
+[submodule "services/rg-frontend"]
+	path = services/rg-frontend
+	url = git@github.com:abubakarmunir712/rg-frontend.git
+[submodule "services/rg-backend"]
+	path = services/rg-backend
+	url = git@github.com:abubakarmunir712/rg-backend.git
+[submodule "services/rg-ai"]
+	path = services/rg-ai
+	url = git@github.com:abubakarmunir712/rg-ai.git
+[submodule "services/rg-scraper"]
+	path = services/rg-scraper
+	url = git@github.com:abubakarmunir712/rg-scraper.git
